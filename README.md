@@ -13,7 +13,7 @@ mở <kbd>cmd</kbd> và dẫn đến nguồn thư mục chứa file chứa file 
 
 ```JAVASCRIPT
 
-  npm install --save express
+  nodemon server.js
 
 ```
 ![image-here](https://raw.githubusercontent.com/panadorado/NodeJS-UploadImage/master/Screenshot%20(5).png)
